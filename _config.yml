@@ -2,7 +2,7 @@
 title: 0xF00D
 owner: "Milton Candelero"
 url: "https://miltoncandelero.github.io/0xF00D"
-baseurl: "/"
+baseurl: "/0xF00D"
 permalink: /:title/
 description: ""
 markdown: kramdown
