@@ -1,8 +1,8 @@
 ## Settings
-title: pRoJEct-NeGYa
-owner: "DeerRIDER"
-url: "https://akiritsu.github.io"
-baseurl: "/pRoJEct-NeGYa"
+title: 0xF00D
+owner: "Milton Candelero"
+url: "https://miltoncandelero.github.io/0xF00D"
+baseurl: "/"
 permalink: /:title/
 description: ""
 markdown: kramdown
@@ -10,11 +10,11 @@ webrick:
   headers:
     Access-Control-Allow-Origin: "*"
 ## Global Variables
-email: "akiritsu@outlook.com"
-github: "akiritsu/pRoJEct-NeGYa"
+email: "miltoncandelero@gmail.com"
+github: "miltoncandelero/0xF00D"
 # path to: css/, fonts/, img/ and js/
 assets_path: "/assets" # i.e. "/assets" 
-statement: "Designed by DeerRIDER, All Rights Reserved"
+statement: "All Chicken Right Wings and Chicken Left Wings well fried and crispy."
 # default max toc levels: 1 - 6 (h1 - h6)
 toc_level: 3
 # texts randomly displayed in background
