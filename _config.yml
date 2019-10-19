@@ -1,7 +1,7 @@
 ## Settings
 title: 0xF00D
 owner: "Milton Candelero"
-url: "https://miltoncandelero.github.io/0xF00D"
+url: "https://miltoncandelero.github.io"
 baseurl: "/0xF00D"
 permalink: /:title/
 description: ""
