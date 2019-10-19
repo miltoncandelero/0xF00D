@@ -5,7 +5,6 @@ category: Full Recipe
 date: 2018-5-1
 ---
 
-# Super Chocolate Milk
 _(based on [Flander's Cocoa by Andrew Rea](https://www.bingingwithbabish.com/recipes/2017/8/22/flandershotcocoa))_
 
 ## Ingredients
@@ -19,7 +18,7 @@ _(based on [Flander's Cocoa by Andrew Rea](https://www.bingingwithbabish.com/rec
 - Dark Chocolate (Full cocoa butter is better, we want it runny)
 - 1/4 tsp corn starch per cup (Optional. This makes our milk one thicc chunky girl)
 
-### Where the fuck are the amounts?
+#### Where the fuck are the amounts?
 Why didn't I put the amounts? Except salt and cinnamon that we need just a pinch, we need to use common sense here.
 
 For each cup of Half-and-Half put the corresponding amount of cocoa powder, sugar, coffee and dark chocolate you would use in a regular breakfast chocolate milk (and then some).
