@@ -1,5 +1,5 @@
 ---
-title: Guiso of Lentejas (Lentil's stew)
+title: Guiso of Lentejas (Lentils stew)
 layout: post
 category: Full Recipe
 date: 2019-10-22
