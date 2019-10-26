@@ -8,7 +8,7 @@ date: 2019-10-22
 ## Ingredients
 - 1 kg of pork ribs
 - 125 cc of honey
-- 80 cc of [Teriyaki sauce]()
+- 80 cc of [Teriyaki sauce](https://miltoncandelero.github.io/0xF00D/teriyaki-sauce/)
 - 40 cc of Sriracha sauce
 - Salt
 - Sugar
