@@ -23,7 +23,7 @@ The dry ingredients go in equal parts and enough to rub all arround the pork.
   - Same amount of each.
 2. In a bowl big enough to fit your ribs later mix the wet ingredients (honey, teriyaki and sriracha).
 3. Taste that. It might feel too spicy, it will die down in the oven but:
-  - If it taste too salty: add honey.
+  - If it tastes too salty: add honey.
   - If it doesn't burn: add sriracha.
   - If it doesn't make your mouth water: add teriyaki
 4. Into that bowl add your ribs and get your hands dirty.
@@ -35,9 +35,9 @@ The dry ingredients go in equal parts and enough to rub all arround the pork.
   - Covered means with tinfoil or inside an oven bag.
   - Try to balance the ribs on their side.
 8. Remove the cover, raise the heat to medium-kinda-high and cook from another hour.
-  - Keep those ribs on its side
+  - Keep those ribs on their side
 9. Every 15 min or so bathe the ribs with their own juice.
-10. When its done, turn the oven off, cut the ribs into individual ribs and roll them in the remaining sauce. Return to the oven for 5 mire minutes to allow for a bit of cooling and thickening of the glaze.
+10. When it's done, turn the oven off, cut the ribs into individual ribs and roll them in the remaining sauce. Return to the oven for 5 mire minutes to allow for a bit of cooling and thickening of the glaze.
 
 There you go, spicy honey ribs.
 
