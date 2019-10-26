@@ -37,7 +37,7 @@ The dry ingredients go in equal parts and enough to rub all arround the pork.
 8. Remove the cover, raise the heat to medium-kinda-high and cook from another hour.
   - Keep those ribs on their side
 9. Every 15 min or so bathe the ribs with their own juice.
-10. When it's done, turn the oven off, cut the ribs into individual ribs and roll them in the remaining sauce. Return to the oven for 5 mire minutes to allow for a bit of cooling and thickening of the glaze.
+10. When it's done, turn the oven off, cut the ribs into individual ribs and roll them in the remaining sauce. Return to the oven for 5 more minutes to allow for a bit of cooling and thickening of the glaze.
 
 There you go, spicy honey ribs.
 
