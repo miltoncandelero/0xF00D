@@ -2,7 +2,7 @@
 title: Teriyaki sauce
 layout: post
 category: Snippet
-date: 2019-26-10
+date: 2019-10-26
 ---
 
 - 250 ml soy sauce
