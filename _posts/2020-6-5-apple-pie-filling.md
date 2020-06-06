@@ -38,8 +38,7 @@ Go to the supermarket and buy puff pastry, pie rounds, or however they are calle
   - Too thick and you won't be able to mix it, too thin and it will make your pie soggy.
 8. Mix the syrupy juice back with the apples.
 9. Now we put our filling in the pie dough.
-  - If you are making a closed pie, make sure you make venting holes or you will end up with a balloon pie.
-    - Nobody likes balloon pies.
+  - If you are making a closed pie, make sure you make venting holes or you will end up with a balloon pie (Nobody likes balloon pies).
   - Also, brush your top pie with egg yolk and sprinkle sugar or kosher salt to get extra *gourmety* on your pie
 10. Bake until crust is golden.
   - The filling doesn't need any cooking, if the dough is cooked you are good to go.
