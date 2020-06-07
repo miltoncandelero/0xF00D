@@ -10,12 +10,10 @@ date: 2019-10-22
 - 125 cc of honey
 - 80 cc of [Teriyaki sauce](https://miltoncandelero.github.io/0xF00D/teriyaki-sauce/)
 - 40 cc of Sriracha sauce
-- Salt
-- Sugar
-- Sweet paprika powder
-
-### Where the fuck are the amounts for the dry ingredients?
-The dry ingredients go in equal parts and enough to rub all arround the pork.
+- 80 cc of tomato puré (optional)
+- Salt 1 tablespoon
+- Sugar 2 tablespoon
+- Sweet paprika powder 2 tablespoon
 
 ## Preparation
 0. Remove the silverskin from under the ribs by pulling real hard.
