@@ -38,5 +38,3 @@ date: 2019-10-22
 10. When it's done, turn the oven off, cut the ribs into individual ribs and roll them in the remaining sauce. Return to the oven for 5 more minutes to allow for a bit of cooling and thickening of the glaze.
 
 There you go, spicy honey ribs.
-
-One way trip to chocolate induced alucinations coming right up!
